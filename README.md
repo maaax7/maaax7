@@ -2,7 +2,7 @@
 ### Social Media: 
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/maxsantos7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaax7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaax7&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologies:
 
